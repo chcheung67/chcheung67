@@ -1,0 +1,417 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 25179,
+      "max": [
+        15.696356773376465,
+        0.75775003433227539,
+        14.394716262817383
+      ],
+      "min": [
+        -15.703169822692871,
+        -1.5116941928863525,
+        -1.1323237419128418
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 302148,
+      "componentType": 5126,
+      "count": 25179,
+      "max": [
+        1,
+        0.99999970197677612,
+        1
+      ],
+      "min": [
+        -1,
+        -0.99999970197677612,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 25179,
+      "max": [
+        0.99999016523361206,
+        0.96765631437301636,
+        0.99999970197677612,
+        1
+      ],
+      "min": [
+        -0.99999016523361206,
+        -0.99993753433227539,
+        -0.99950605630874634,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 25179,
+      "max": [
+        0.98574334383010864,
+        0.94625890254974365
+      ],
+      "min": [
+        0.029996752738952637,
+        0.32153886556625366
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 63216,
+      "max": [
+        25178
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 604296,
+      "componentType": 5126,
+      "count": 519,
+      "max": [
+        1.0326144695281982,
+        0.99943864345550537,
+        1.060981273651123
+      ],
+      "min": [
+        -0.99023807048797607,
+        -0.99980068206787109,
+        -1.0737614631652832
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 610524,
+      "componentType": 5126,
+      "count": 519,
+      "max": [
+        0.99980270862579346,
+        1,
+        0.99948722124099731
+      ],
+      "min": [
+        -0.99980276823043823,
+        -1,
+        -0.99948710203170776
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 402864,
+      "componentType": 5126,
+      "count": 519,
+      "max": [
+        0.99999856948852539,
+        0.93104815483093262,
+        0.99077188968658447,
+        1
+      ],
+      "min": [
+        -0.99380040168762207,
+        -0.9998965859413147,
+        -0.9987679123878479,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 201432,
+      "componentType": 5126,
+      "count": 519,
+      "max": [
+        0.96563947200775146,
+        0.94625890254974365
+      ],
+      "min": [
+        0.029996752738952637,
+        0.32153886556625366
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 252864,
+      "componentType": 5125,
+      "count": 2736,
+      "max": [
+        518
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Alex Martire (https://sketchfab.com/alexmartire)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/models/3400ef8db55a4e91ac0c9c53f4329e26",
+      "title": "Jangada de Bambu (Bamboo raft)"
+    },
+    "generator": "Sketchfab-3.19.4",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 263808,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 205584,
+      "byteOffset": 263808,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 616752,
+      "byteOffset": 469392,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 411168,
+      "byteOffset": 1086144,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1497312,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Bambu_baseColor.png"
+    },
+    {
+      "uri": "textures/Bambu_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Bambu_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "emissiveFactor": [
+        0,
+        0,
+        0
+      ],
+      "name": "Bambu",
+      "normalTexture": {
+        "index": 2,
+        "scale": 1,
+        "texCoord": 0
+      },
+      "occlusionTexture": {
+        "index": 1,
+        "strength": 1,
+        "texCoord": 0
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "metallicRoughnessTexture": {
+          "index": 1,
+          "texCoord": 0
+        },
+        "roughnessFactor": 0.0443978659
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "JangadaBambu_Bambu_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Remo_Bambu_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "cd490eb30b9d4a74ba525e79aa34c63f.fbx"
+    },
+    {
+      "children": [
+        4,
+        6
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "JangadaBambu"
+    },
+    {
+      "mesh": 0,
+      "name": "JangadaBambu_Bambu_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "matrix": [
+        3.0390576529924426e-15,
+        -0.21385467052459717,
+        -1.1871318957001729e-17,
+        0,
+        -13.896640451801368,
+        -1.948660148123031e-13,
+        3.7235935865657459,
+        0,
+        -0.055349661615889001,
+        -7.7163573220511239e-16,
+        -0.20656774933224833,
+        0,
+        5.7145228385925293,
+        0.98454010486602783,
+        6.6276931762695312,
+        1
+      ],
+      "name": "Remo"
+    },
+    {
+      "mesh": 1,
+      "name": "Remo_Bambu_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
+
